@@ -12,10 +12,14 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
+        <spring.version>5.3.17</spring.version>
     </properties>
 
     <modules>
         <module>lesson-01-servlet</module>
+        <module>hw_lesson_2</module>
+        <module>lesson_3_hw</module>
+        <module>lesson_4-spring-boot</module>
     </modules>
 
 </project>
